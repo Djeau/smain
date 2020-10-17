@@ -1,0 +1,2 @@
+# smain
+gethub
